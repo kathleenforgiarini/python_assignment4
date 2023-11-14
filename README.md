@@ -1,4 +1,4 @@
-# Python exercises 3
+# Python exercises 4
 Python exercises to practice functions.
 
 ## Usage
